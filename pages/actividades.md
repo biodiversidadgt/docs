@@ -33,19 +33,29 @@ La mayoría de actividades virtuales han sido grabadas y están disponibles para
 
 ## Conferencias
 
+- Orellana, S. (2025, Junio). **Introducción al Portal de Biodiversidad de Guatemala.** Seminario Presencial, Museo de Historia Natural de la Universidad de San Carlos de Guatemala. [Presentación.](https://doi.org/10.6084/m9.figshare.29361863.v1) 
+
+- Orellana KS, López Z, Bastardo R, Arias A, Pearson K, Gilbert E, Franz, N. (Mayo, 2025). **Potencial de Instalaciones Symbiota para Movilizar Colecciones Latinoamericanas a GBIF**. Reunión Anual de la Sociedad para la Preservación de Colecciones de Historia Natural (SPNHC). Lawrence, Kansas, Estados Unidos. 
+   
+- Orellana KS, Franz N, Gilbert E, Freire-Fierro A. 2025 (Marzo, 2025). **Digitalización de Herbarios Latinoamericanos con Symbiota.** Congreso Latinoamericano de Botánica. La Habana, Cuba (virtual). [Grabación](https://youtu.be/4rhR8tuhxGw?si=_ef02ss8Jbe7MY81).
+
+- Orellana KS, López ZM, Yoshimoto J, Quezada ML, Prado LM, Ambrocio AL, Barrios-Izás MA, Jiménez RA, García P, Post G, Franz N, Gilbert E. 2024. **Advances in the Digitization and Mobilization of Natural History Collections in Guatemala.** Biodiversity Information Science and Standards 8: e134288. [https://doi.org/10.3897/biss.8.134288](https://doi.org/10.3897/biss.8.134288).
+
+- Castillo-Cabrera FJ, Roldán RA, Barrios MV,  Burgos-Barrios CL, Grajeda AL,  García MJ, Cruz H, Morales-Mérida JR, Tenez ED, Vásquez M, Agreda EO, Velásquez I, Eufragio A, Barahona-Fong R, Yurrita CL, Orellana KS*. 2024. **Interactive Checklists to Increase Access to Urban Biodiversity Information in Guatemala.** Biodiversity Information Science and Standards 8: e137732. [https://doi.org/10.3897/biss.8.137732](https://doi.org/10.3897/biss.8.137732). 
+
 |![RHMC](https://github.com/biodiversidadgt/docs/assets/69399374/38412a98-8a34-49a7-a5f2-d1117fa3b5d9)|
 
 - Orellana, S. (2023, Junio). **Portales Symbiota: Herramientas de Digitalización de Colecciones de Herbario**. Red de Herbarios de Mesoamérica y el Caribe. [Grabación](https://www.youtube.com/watch?v=ihvChPHdxew).
 
 - Orellana, S. (2022, Noviembre). **Portales Symbiota como Herramientas de Digitalización de Colecciones de Herbario.** II Simposio de Botánica de Guatemala, Universidad de San Carlos de Guatemala, Virtual. Grabación.
 
-- Orellana, K.S., Gilbert, E., Walker, L. J., Pearson, K., Prado, L. R., Post, G., Yost, J., & Franz, N. (2022, Octubre). **Taxonomic Curation in a Multi-taxa Symbiota Portal.** Biodiversity Information Science and Standards, 6, e93671. [https://doi.org/10.3897/biss.6.93671](https://doi.org/10.3897/biss.6.93671)
+- Orellana, KS, Gilbert, E, Walker, LJ, Pearson, K, Prado, LR, Post, G, Yost, J, & Franz, N. (2022, Octubre). **Taxonomic Curation in a Multi-taxa Symbiota Portal.** Biodiversity Information Science and Standards, 6, e93671. [https://doi.org/10.3897/biss.6.93671](https://doi.org/10.3897/biss.6.93671)
 
 - Orellana, S. (2022, Septiembre). **Portales Symbiota.** Taller de Manejo de Colecciones de Historia Natural, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Colombia, Virtual.
 
 - Orellana, S. (2022, Septiembre). **Digitalizando Colecciones de Historia Natural en Guatemala.** Connecting Collections Workshop Series. Organizado por los nodos GBIF de Ecuador, Argentina, Guatemala y por la Sociedad para la Preservación de Colecciones de Historia Natural, Virtual. [Grabación](https://www.youtube.com/watch?v=lnlnVE7NaKo&t=1188s).
 
-- Orellana, S., Gilbert, E., Pearson, K., Walker, L., Prado, L., Post, G., Yost, J., & Franz, N. (2022, Junio). **Engaging Underrepresented Communities with Symbiota Portals.** iDigBio’s Digital Data Conference, Virtual. [Grabación en español](https://www.youtube.com/watch?v=bkq1NrKn8w4).
+- Orellana, S, Gilbert, E, Pearson, K, Walker, L, Prado, L, Post, G, Yost, J, & Franz, N. (2022, Junio). **Engaging Underrepresented Communities with Symbiota Portals.** iDigBio’s Digital Data Conference, Virtual. [Grabación en español](https://www.youtube.com/watch?v=bkq1NrKn8w4).
 
 - Orellana, S. (2022, Mayo). **Publicación de datos de biodiversidad hacia GBIF desde el Portal de Biodiversidad de Guatemala”**. Colegio Profesional de Farmacéuticos y Químicos de Guatemala, Virtual. [Grabación](https://www.facebook.com/watch/live/?ref=watch_permalink&v=918191852416589).
 
