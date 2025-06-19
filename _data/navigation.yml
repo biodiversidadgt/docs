@@ -20,6 +20,10 @@
   url: "/taxonomos/"
   side: left
 
+- title: "Actividades"
+  url: "/actividades/"
+  side: left
+
 - title: Blog
   url: "/blog/"
   side: left
