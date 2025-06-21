@@ -31,17 +31,17 @@ La mayoría de actividades virtuales han sido grabadas y están disponibles para
 
 ---
 
-## Conferencias
+## Conferencias y Seminarios
 
 - Orellana, S. (2025, Junio). **Introducción al Portal de Biodiversidad de Guatemala.** Seminario Presencial, Museo de Historia Natural de la Universidad de San Carlos de Guatemala. [Presentación.](https://doi.org/10.6084/m9.figshare.29361863.v1) 
 
-- Orellana KS, López Z, Bastardo R, Arias A, Pearson K, Gilbert E, Franz, N. (Mayo, 2025). **Potencial de Instalaciones Symbiota para Movilizar Colecciones Latinoamericanas a GBIF**. Reunión Anual de la Sociedad para la Preservación de Colecciones de Historia Natural (SPNHC). Lawrence, Kansas, Estados Unidos. 
+- Orellana KS, López Z, Bastardo R, Arias A, Pearson K, Gilbert E, Franz, N. (2025, Mayo). **Potencial de Instalaciones Symbiota para Movilizar Colecciones Latinoamericanas a GBIF**. Reunión Anual de la Sociedad para la Preservación de Colecciones de Historia Natural (SPNHC). Lawrence, Kansas, Estados Unidos. 
    
-- Orellana KS, Franz N, Gilbert E, Freire-Fierro A. 2025 (Marzo, 2025). **Digitalización de Herbarios Latinoamericanos con Symbiota.** Congreso Latinoamericano de Botánica. La Habana, Cuba (virtual). [Grabación](https://youtu.be/4rhR8tuhxGw?si=_ef02ss8Jbe7MY81).
+- Orellana KS, Franz N, Gilbert E, Freire-Fierro A. 2025 (2025, marzo). **Digitalización de Herbarios Latinoamericanos con Symbiota.** Congreso Latinoamericano de Botánica. La Habana, Cuba (virtual). [Grabación](https://youtu.be/4rhR8tuhxGw?si=_ef02ss8Jbe7MY81).
 
-- Orellana KS, López ZM, Yoshimoto J, Quezada ML, Prado LM, Ambrocio AL, Barrios-Izás MA, Jiménez RA, García P, Post G, Franz N, Gilbert E. 2024. **Advances in the Digitization and Mobilization of Natural History Collections in Guatemala.** Biodiversity Information Science and Standards 8: e134288. [https://doi.org/10.3897/biss.8.134288](https://doi.org/10.3897/biss.8.134288).
+- Orellana KS, López ZM, Yoshimoto J, Quezada ML, Prado LM, Ambrocio AL, Barrios-Izás MA, Jiménez RA, García P, Post G, Franz N, Gilbert E. (2024, Agosto). **Advances in the Digitization and Mobilization of Natural History Collections in Guatemala.** Biodiversity Information Science and Standards 8: e134288. [https://doi.org/10.3897/biss.8.134288](https://doi.org/10.3897/biss.8.134288).
 
-- Castillo-Cabrera FJ, Roldán RA, Barrios MV,  Burgos-Barrios CL, Grajeda AL,  García MJ, Cruz H, Morales-Mérida JR, Tenez ED, Vásquez M, Agreda EO, Velásquez I, Eufragio A, Barahona-Fong R, Yurrita CL, Orellana KS*. 2024. **Interactive Checklists to Increase Access to Urban Biodiversity Information in Guatemala.** Biodiversity Information Science and Standards 8: e137732. [https://doi.org/10.3897/biss.8.137732](https://doi.org/10.3897/biss.8.137732). 
+- Castillo-Cabrera FJ, Roldán RA, Barrios MV,  Burgos-Barrios CL, Grajeda AL,  García MJ, Cruz H, Morales-Mérida JR, Tenez ED, Vásquez M, Agreda EO, Velásquez I, Eufragio A, Barahona-Fong R, Yurrita CL, Orellana KS*. (2024, Agosto). **Interactive Checklists to Increase Access to Urban Biodiversity Information in Guatemala.** Biodiversity Information Science and Standards 8: e137732. [https://doi.org/10.3897/biss.8.137732](https://doi.org/10.3897/biss.8.137732). 
 
 |![RHMC](https://github.com/biodiversidadgt/docs/assets/69399374/38412a98-8a34-49a7-a5f2-d1117fa3b5d9)|
 
@@ -73,7 +73,9 @@ La mayoría de actividades virtuales han sido grabadas y están disponibles para
 
 ### Talleres
 
-|![Recorrido](https://github.com/biodiversidadgt/docs/assets/69399374/d920dc13-bbd8-4bb7-9355-027802b5ec4b)|
+  ![InvitaciónGuatemala](https://github.com/user-attachments/assets/2cd9b1e5-792b-4898-8226-9be60a3f1c62)
+
+- Orellana, S. (2025, Junio). **Herramientas Avanzadas en el Portal de Biodiversidad de Guatemala.** Taller de Actualización para Curadores, Universidad de San Carlos de Guatemala.
 
 - Orellana, S. (2023, Marzo). **Un Recorrido por el Portal de Biodiversidad.** Dirigido a curadores y usuarios en Guatemala, Virtual. [Grabación](https://www.youtube.com/watch?v=Jx8ILJQGyaA).
 
